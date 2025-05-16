@@ -6,7 +6,7 @@ This project is a simple data collection and processing tool that interacts with
 ## 🛠 What it does:
 Connects to the Digikala API and fetches special offer product data.
 
-Extracts key information from each product:
+### Extracts key information from each product:
 
 Product Name
 
@@ -21,8 +21,11 @@ Discount Percentage
 Sorts the products by highest discount percentage.
 
 Saves the result into a clean and organized Excel file for further analysis.
-This tool is useful for:
+### This tool is useful for:
+
 Monitoring top discounted products on Digikala
+
 Identifying the best deals
+
 Creating automated discount tracking systems
 ### ------------------------------------------------------------
